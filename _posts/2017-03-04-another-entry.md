@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "this is just a test"
+title: "another entry"
 date: 2017-03-04
 ---
 
